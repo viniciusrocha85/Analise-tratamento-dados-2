@@ -31,7 +31,7 @@ Este repositório contém uma análise de dados que correlaciona informações s
 - Pandas
 - Matplotlib
 - Matplotlib-Venn
-
+```
 ## Como Usar
 
 1. **Clone o repositório:**
