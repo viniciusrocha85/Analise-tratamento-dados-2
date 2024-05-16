@@ -1,4 +1,3 @@
-```markdown
 # Análise de Saúde, Mobilidade e Educação
 
 Este repositório contém uma análise de dados que correlaciona informações sobre casos de dengue, alunos e mobilidade urbana (uso de ônibus).
@@ -68,6 +67,5 @@ Este projeto é licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE)
 ## Contato
 
 Para mais informações, entre em contato através de [seu-email@dominio.com](mailto:seu-email@dominio.com).
-```
 
 Este arquivo README fornece uma visão geral clara do projeto, incluindo sua estrutura, dependências, instruções de uso e informações de contato. Certifique-se de substituir os placeholders (como URLs e endereço de e-mail) com as informações relevantes do seu projeto.
